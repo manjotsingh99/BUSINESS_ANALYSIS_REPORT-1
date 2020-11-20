@@ -10,3 +10,17 @@ LIBRARIES USED:
 6. PLOTLY.GRAPH_OBJECTS
 7. PYWAFFLE
 8. SKLEARN.LINEAR_MODEL
+# Data fields:
+1. Ship Mode
+2. Segment
+3. Country
+4. City
+5. State
+6. Postal Code
+7. Region
+8. Category
+9. Sub-Category
+10. Sales
+11. Quantity
+12. Discount
+13. Profit
